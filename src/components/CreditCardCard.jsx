@@ -18,7 +18,7 @@ const CreditCardCard = ({ card }) => {
 
             <div className="flex justify-between text-sm text-indigo-100">
                 <div>
-                    <p className="text-xs opacity-70">Card Holder</p>
+                    <p className="text-xs opacity-70">Card Holder Name</p>
                     <p>{card.holder}</p>
                 </div>
 
